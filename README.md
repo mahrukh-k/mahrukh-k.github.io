@@ -1,6 +1,14 @@
-## [Mahrukh Khan](https://www.linkedin.com/in/mahrukh-khan/)
 
-### Projects
+<div>
+  <img align="left" src="https://user-images.githubusercontent.com/116593921/229105075-2b8113d6-c4a9-433b-8501-93bb22808c73.jpg" alt="Project Image" style="float:left; margin-right:10px;">
+  <p><strong><span style="font-size:40pt;">Mahrukh Khan</span></strong></p>
+  <br>
+  <p>Welcome to my profile. I'm an aspiring data scientist with academic training in applied econometrics, machine learning and computer programming. I'm passionate about working at the intersection of data analytics and policymaking using machine learning/AI models to optimize policy solutions. I have experience with Python, R, RShiny, Stata, ArcGIS and Tableau softwares. Below you fill find some of the projects I've worked on that are based on ML, spatial analysis, and data viz. 
+</p>
+<br>
+</div>
+
+### Projects:
 
 **Machine Learning:**
 

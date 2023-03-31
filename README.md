@@ -1,7 +1,7 @@
 
 <div>
   <img align="left" src="https://user-images.githubusercontent.com/116593921/229105075-2b8113d6-c4a9-433b-8501-93bb22808c73.jpg" alt="Project Image" style="float:left; margin-right:10px;">
-  <p><strong><span style="font-size:40pt;">Mahrukh Khan</span></strong></p>
+  <p><strong><span style="font-size:20pt;">Welcome</span></strong></p>
   <br>
   <p>Welcome to my profile. I'm an aspiring data scientist with academic training in applied econometrics, machine learning and computer programming. I'm passionate about working at the intersection of data analytics and policymaking using machine learning/AI models to optimize policy solutions. I have experience with Python, R, RShiny, Stata, ArcGIS and Tableau softwares. Below you fill find some of the projects I've worked on that are based on ML, spatial analysis, and data viz. 
 </p>
@@ -21,8 +21,8 @@
 
 
 **Python Web Apps:**
-- [Capstone](https://github.com/mahrukh-k/Streamlit-Dashboard-NHSA.git)
-- [Python App to present key indicators on living conditions in U.S.](https://github.com/mahrukh-k/Tkinter-Application.git)
+- [Dashboard for the National Head Start Association](https://github.com/mahrukh-k/Streamlit-Dashboard-NHSA.git)
+- [Python Interface to present key indicators on living conditions in U.S.](https://github.com/mahrukh-k/Tkinter-Application.git)
 
 
 **R Shiny Web Apps:**
@@ -33,7 +33,7 @@
 - [Air Pollution in U.S.](https://mahrukh-k.shinyapps.io/hw1-shiny/?_ga=2.134633777.1150617572.1679851978-1328447398.1678659633)
 
 **Webscraping**
-- [Code](https://github.com/mahrukh-k/Webscraping.git)
+- [Black-owned businesses](https://github.com/mahrukh-k/Webscraping.git)
 
 **Data Viz:**
 - [Food Waste in U.S.](https://carnegiemellon.shorthandstories.com/rotten-potatoes/index.html)

@@ -14,6 +14,7 @@
 
 - Sentiment analysis using Tweets on the train derailment incident in Eastern Ohio (coming soon)
 - Predicting size and class of wildfires in U.S. using supervised and unsupervised ML models (coming soon)
+- Identifying potential stores for SNAP benefits in high SNAP eligible population areas using K-Means Clustering and Network Analysis (coming soon)
 - [Predicting low birth weight in children](https://github.com/mahrukh-k/Predicting-low-birth-weight-in-children.git)
 - [Predicting presence of monkeypox virus using a convolutional neural network](https://github.com/mahrukh-k/Containing-the-spread-of-monkeypox-virus-using-a-convolutional-neural-network.git)
 

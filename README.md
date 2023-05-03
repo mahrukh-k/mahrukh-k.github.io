@@ -10,16 +10,17 @@
 
 ### Projects:
 
-**Machine Learning:**
+**ML/AI:**
 
-- Sentiment analysis using Tweets on the train derailment incident in Eastern Ohio (coming soon)
-- Predicting size and class of wildfires in U.S. using supervised and unsupervised ML models (coming soon)
-- Identifying potential stores for SNAP benefits in high SNAP eligible population areas using K-Means Clustering and Network Analysis (coming soon)
+- [Sentiment analysis using Tweets on the train derailment incident in Eastern Ohio](https://github.com/mahrukh-k/AI-Project.git)
+- Predicting size and class of wildfires in U.S. (coming soon)
+- [Network analysis for SNAP-eligible stores in Allegheny County, U.S.](https://github.com/amjanaskie/MAP_Project_PGH_SNAP.git)
 - [Predicting low birth weight in children](https://github.com/mahrukh-k/Predicting-low-birth-weight-in-children.git)
 - [Predicting presence of monkeypox virus using a convolutional neural network](https://github.com/mahrukh-k/Containing-the-spread-of-monkeypox-virus-using-a-convolutional-neural-network.git)
 
 
 **GIS:**
+- [Network analysis of emergency responders in California](https://storymaps.arcgis.com/stories/c11b34a88af940e6bd10dc2878dc74db)
 - [Map of black-owned businesses in Pittsburgh, U.S.](https://storymaps.arcgis.com/stories/73ed746ecaad4ffe8693658b58d6eca0)
 
 

@@ -2,10 +2,9 @@
 <div>
   <img align="left" src="https://github.com/mahrukh-k/mahrukh-k.github.io/blob/de9f5d480d872ffbc76b6bfa318a3036b23eb444/20240916_155057__.jpg" alt="Project Image"  width="150"; style="float:left; margin-right:10px;">
   <p><strong><span style="font-size:20pt;"> Welcome</span></strong></p>
-  
   <p>Welcome to my profile. I'm an aspiring data scientist with academic training in applied econometrics, machine learning and computer programming. I'm passionate about working at the intersection of data analytics and policymaking using machine learning/AI models to optimize policy solutions. I have experience with Python, R, RShiny, Stata, ArcGIS and Tableau softwares. Below you fill find some of the projects I've worked on that are based on ML, spatial analysis, and data viz. 
 </p>
-<br>
+
 </div>
 
 ### Projects:

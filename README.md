@@ -1,10 +1,10 @@
 
 <div>
   <img align="left" src="https://github.com/user-attachments/assets/1a64a156-a5fd-4007-aab0-67e8657b7189" alt="Project Image"  width="150" style="float:left; margin-right:10px;">
-  <p><strong><span style="font-size:20pt;">Welcome</span></strong></p>
+  <p><strong><span style="font-size:20pt;"></span></strong></p>
   <p>Welcome to my profile. I'm an aspiring data scientist with academic training in applied econometrics, machine learning and computer programming. I'm passionate about working at the intersection of data analytics and policymaking using machine learning/AI models to optimize policy solutions. I have experience with Python, R, RShiny, Stata, ArcGIS and Tableau softwares. Below you fill find some of the projects I've worked on that are based on ML, spatial analysis, and data viz. 
 </p>
-
+<br>
 </div>
 
 ### Projects:

@@ -10,6 +10,9 @@
 
 ### Projects:
 
+**Satellite Data:**
+- [Night Time Lights](https://github.com/mahrukh-k/Google-Earth-Engine.git)
+
 **ML/AI:**
 
 - [Sentiment analysis using Tweets on the train derailment incident in Eastern Ohio](https://github.com/mahrukh-k/AI-Project.git)

@@ -2,7 +2,7 @@
 <div>
   <img align="left" src="https://github.com/user-attachments/assets/1a64a156-a5fd-4007-aab0-67e8657b7189" alt="Project Image"  width="150" style="float:left; margin-right:10px;">
   <p><strong><span style="font-size:20pt;"></span></strong></p>
-  <p>Welcome to my profile. I'm a data scientist with academic training in applied econometrics, machine learning and computer programming. I hold a Master's degree in Public Policy & Data Analytics from Carnegie Mellon University and a Bachelor's degree in Economics from Lahore University of Management Sciences. 
+  <p>Welcome to my portfolio. I'm a data scientist with academic training in applied econometrics, machine learning and computer programming. I hold a Master's degree in Public Policy & Data Analytics from Carnegie Mellon University and a Bachelor's degree in Economics from Lahore University of Management Sciences. 
     I'm passionate about working at the intersection of data analytics and policymaking using machine learning/AI models to optimize policy solutions. I have experience with Python, R, RShiny, Stata, ArcGIS and Power BI softwares. Below you fill find some of the projects I've worked on that are based on ML, spatial analysis, and data viz. 
 </p>
 <br>

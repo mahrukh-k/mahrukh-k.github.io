@@ -24,7 +24,7 @@
 
 
 **GIS:**
-- [Network analysis of emergency responders in California](https://storymaps.arcgis.com/stories/c11b34a88af940e6bd10dc2878dc74db)
+- [Network analysis of emergency responders in California](https://github.com/mahrukh-k/network-analysis-gis) (See [Storymap](https://storymaps.arcgis.com/stories/c11b34a88af940e6bd10dc2878dc74db))
 - [Map of black-owned businesses in Pittsburgh, U.S.](https://storymaps.arcgis.com/stories/73ed746ecaad4ffe8693658b58d6eca0)
 
 

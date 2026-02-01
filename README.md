@@ -11,7 +11,7 @@
 ### Projects:
 
 **Satellite Data:**
-- [Night Time Lights](https://github.com/mahrukh-k/Google-Earth-Engine/blob/main/gee_ntl.js))
+- [Night Time Lights](https://github.com/mahrukh-k/Google-Earth-Engine/blob/main/gee_ntl.js)
 - [Air Pollution](https://github.com/mahrukh-k/Google-Earth-Engine.git)
 - [Infrastructure](https://github.com/mahrukh-k/Google-Earth-Engine/blob/main/gee_buildings_viz.js)
 

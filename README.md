@@ -12,7 +12,8 @@
 
 **Satellite Data:**
 - [Night Time Lights](https://github.com/mahrukh-k/Google-Earth-Engine.git)
-- Air Pollution
+- [Air Pollution](https://github.com/mahrukh-k/Google-Earth-Engine.git)
+- [Infrastructure](https://github.com/mahrukh-k/Google-Earth-Engine/blob/main/gee_buildings_viz.js)
 
 **ML/AI:**
 
